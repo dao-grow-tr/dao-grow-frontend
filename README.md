@@ -66,9 +66,6 @@ Projeyi geliştirmek için:
 2. `app` klasöründeki dosyaları düzenleyin
 3. Değişiklikler otomatik olarak yansıyacaktır
 
-## 📝 Lisans
-
-Bu proje [LICENSE] altında lisanslanmıştır.
 
 ## 🤝 Katkıda Bulunma
 
